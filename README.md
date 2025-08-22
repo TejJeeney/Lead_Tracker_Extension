@@ -1,19 +1,40 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+---
+## Lead Tracking Google Chrome Extension
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This is your Lead-Trcaking compnaion for your **Google Chrome** browser\
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+The browser extension can be ***accessed*** by following the steps:
+
+1. **Copy the repo or Download it as a zip file**
+
+    ```sh
+    cd Lead_Tracker_Extension
+    ```
+
+2. **Open your chrome Browser**
+3. **Head over to Extension page**
+4. **Select the MY EXTENSION tab**
+5. **Use load unpack option and upload the folder**
+6. **Use it for tracking some leads**
+
+---
+
+## Screenshot
+
+---
+
+![Screenshot of Extension](./ScrrenGrabExtension.png)
+
+---
+
+**Made by Author: TejJeeney**
+
+---
+
+
+
+
